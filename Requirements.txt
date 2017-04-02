@@ -1,0 +1,5 @@
+ShareX is completely written in python 2.7 and has been succesfully executed on Fedora 18 and Kali.
+TKinter is a must for running it.
+run the following code to get TKinter module on fedora with super user privilage.
+                 >> yum install tkinter
+Please modify if anyone can come up with any more cool feature on ShareX
