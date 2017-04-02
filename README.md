@@ -10,4 +10,4 @@ Copyright (c) 2017-18 Jyoti Prakash Das
 
 ShareX is a file sharing software designed for debian OS (I used fedora 18).
 This gives a file sharing speed of 15-20MB/ps and i am working my best to increase the speed as much as possible in the future update.
-Special Thanks to Pravas Kumar Panda, for his help in debuging.
+Special Thanks to Pravas Kumar Panda, for his idea and help in debugging.
