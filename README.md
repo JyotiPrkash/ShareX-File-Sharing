@@ -6,9 +6,7 @@ Copyright (c) 2017-18 Jyoti Prakash Das
  * version 2.1 of the License, or (at your option) any later version.
  * ShareX is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
- * Lesser General Public License for more details.
-
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 ShareX is a file sharing software designed for debian OS (I used fedora 18).
 This gives a file sharing speed of 15-20MB/ps and i am working my best to increase the speed as much as possible in the future update.
